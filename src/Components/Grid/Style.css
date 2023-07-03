@@ -1,0 +1,10 @@
+.layout-h1{
+    background-color: red;
+    padding: 2%;
+    align-items: center;
+    width: 50%;
+    margin-left: 12%;
+}
+.layout-h2{
+    background-color:green !important;
+}
